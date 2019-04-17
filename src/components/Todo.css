@@ -1,0 +1,17 @@
+ul li {
+    color: #fff;
+    position: relative;
+    padding: 10px 40px;
+    padding-left: 10px;
+    max-width: 500px;
+}
+ul button {
+	width: 30px;
+    position: absolute;
+    right: 0;
+    height: 100%;
+    top: 0;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}

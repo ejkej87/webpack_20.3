@@ -1,0 +1,14 @@
+form {
+	padding: 5px;
+}
+form input {
+	padding: 10px;
+    border: none;
+    padding-left: 20px;
+}
+form button {
+	height: 100%;
+    border: none;
+    padding: 10px;
+    width: 30%;
+}
